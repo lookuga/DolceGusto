@@ -16,4 +16,4 @@ Instructions to Use
     On pressing the power button, should turn to yellow (means heating up)
     Once heated up should turn to solid green
     On switch to start pump, it should start to pump water (either hot or cold) and should be yellow (heating while pumping)
-    If will show red if does not detect the capsule holder when trying to start pump
+    Show red, if the capsule holder is not detected when trying to start pump
